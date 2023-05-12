@@ -1,0 +1,8 @@
+{
+  "contest": 238,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "M-12 is not fully mitigated because a private pool can still be created for a factory or vault-like NFT that is similar to but not Private Pool Factory NFT",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2023-05-caviar-mitigation-contest-findings/issues/22"
+}
