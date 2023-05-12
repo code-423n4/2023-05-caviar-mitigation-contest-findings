@@ -1,0 +1,8 @@
+{
+  "contest": 238,
+  "handle": "rbserver",
+  "risk": "2",
+  "title": "NEW - Mitigation for H-02 and M-15 prevents private pool owner from performing some legitimate operations for `baseToken` and `nft` tokens owned by private pool",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2023-05-caviar-mitigation-contest-findings/issues/26"
+}
